@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543365976481",
+    "firebase_url": "https://baberbooking-b28ef.firebaseio.com",
+    "project_id": "baberbooking-b28ef",
+    "storage_bucket": "baberbooking-b28ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543365976481:android:e2deea3a862a55ba",
+        "android_client_info": {
+          "package_name": "com.example.baberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543365976481-m1llvu9s9fdh20jd7r5fqrghrkc2l963.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baberbooking",
+            "certificate_hash": "7346f4902931ff5801b731f47eae6e3ea7e2ea41"
+          }
+        },
+        {
+          "client_id": "543365976481-5tons19854t9ri1oparqdmksn6qvirg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-RvQjZOlZy7683LuMgPDXDb0-Dal5xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543365976481-5tons19854t9ri1oparqdmksn6qvirg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
